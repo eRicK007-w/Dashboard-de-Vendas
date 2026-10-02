@@ -1,0 +1,1 @@
+Esse projeto serviu para a conclusão do desafio de criar uma Dashboard de vendas de Xbox, utilizando tabelas dinâmicas com dados pré-definido e possui interação com o usuário para poder ver os dados utilizando métricas estabelecidas no menu lateral, podendo o usuário mexer nas opções disponibilizadas pelo criador do projeto.
